@@ -1,0 +1,28 @@
+.table-container {
+  width: 80%; /* Sesuaikan dengan lebar yang diinginkan */
+  margin: 0 auto; /* Menengahkan wadah */
+  text-align: center;
+}
+
+.table {
+  width: 100%; /* Menyesuaikan lebar tabel dengan wadahnya */
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+.pertama {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.kedua {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.btn-container{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
